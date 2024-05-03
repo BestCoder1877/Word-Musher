@@ -4,4 +4,6 @@
 
 # Install
 
- Install the apk or exe file by clicking on Code and chossing Dowmload ZIP at https://github.com/BestCoder1877/Word-Musher
+ Install for windows or android  by clicking on Code and chossing Dowmload ZIP at https://github.com/BestCoder1877/Word-Musher
+
+# IF YOU ARE GETTING THE WINDOWS VERSION MAKE SURE TO KEEP THE windows FOLDER
